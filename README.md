@@ -224,12 +224,12 @@ Rudhra Info Solutions, Chennai — 1 Month
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kube030106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" width="48%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Kube030106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kube030106&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kube030106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" width="45%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kube030106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" width="45%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kube030106&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=38BDF8&line=38BDF8&point=E2E8F0" width="50%"/>
 
 </div>
