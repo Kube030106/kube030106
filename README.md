@@ -1,91 +1,257 @@
-<h1 align="center">Hi 👋, I'm Kubendiran M</h1>
-<h3 align="center">Computer Science (AI) Undergraduate | Aspiring Software Developer & AI Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Computer+Vision+%7C+Python+%7C+ReactJS;Building+real-world+intelligent+systems" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=220&section=header&text=Kubendiran%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20(AI)%20Undergraduate%20%7C%20Software%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
----
+<br/>
 
-### 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+intelligent+AI-powered+systems;Computer+Vision+%7C+Machine+Learning+%7C+IoT;Full-Stack+Developer+%7C+ReactJS+%2B+Flask;Turning+ideas+into+real-world+products" alt="Typing SVG" />
 
-- 🎓 B.E. Computer Science & Engineering (Artificial Intelligence), **Sathyabama Institute of Science & Technology** (2023 – 2027) — CGPA: 8.6/10
-- 💡 Passionate about building AI-powered applications, computer vision systems, and IoT solutions
-- 🌱 Currently strengthening my skills in Machine Learning, Data Structures & Algorithms, and Full-Stack Development
-- 👨‍💻 Seeking internship / entry-level opportunities as a **Software Developer** or **AI Engineer**
-- 📫 Reach me at **kuben3456@gmail.com**
-- 🌐 [LinkedIn](https://linkedin.com/in/m-kubendiran-2546702b5) &nbsp;|&nbsp; 📍 Chennai, India
+<br/><br/>
 
----
+<a href="https://linkedin.com/in/m-kubendiran-2546702b5"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kuben3456@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Kube030106"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Kube030106&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
 
-### 🛠️ Tech Stack
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=header" width="100%"/>
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+- 🎓 Pursuing **B.E. Computer Science & Engineering (AI)** at **Sathyabama Institute of Science & Technology** — CGPA: **8.4/10** (2023 – 2027)
+- 🧠 Passionate about **Artificial Intelligence, Computer Vision & IoT** — I like building things that actually *see, think,* and *respond*
+- 🚀 Currently building end-to-end AI + full-stack products, from ML models to deployed web interfaces
+- 🌱 Actively sharpening skills in **DSA, System Design,** and **Applied Machine Learning**
+- 💼 Open to **internships / entry-level roles** as a Software Developer or AI Engineer
+- 📍 Based in Chennai, India | 🗣️ English, Tamil, Telugu
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+name: Kubendiran M
+role: AI & Software Engineer (in progress)
+currently:
+  - Sharpening ML fundamentals
+  - Shipping full-stack projects
+  - Open to opportunities
+reach_me:
+  email: kuben3456@gmail.com
+  linkedin: /in/m-kubendiran-2546702b5
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=header" width="100%"/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
 
-**Web & Frontend**
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+**Frontend & Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flask" />
 
-**Databases & Cloud**
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Database & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase" />
 
-**Libraries & Tools**
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**Tools & Libraries**
+<br/>
+<img src="https://skillicons.dev/icons?i=opencv,git,github,vscode" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
 **Core Concepts**
-`Data Structures & Algorithms` `Machine Learning` `Computer Vision` `Internet of Things (IoT)`
+- 🔹 Data Structures & Algorithms
+- 🔹 Object-Oriented Programming
+- 🔹 Database Management Systems
+- 🔹 Operating Systems & Computer Networks
 
----
+</td>
+<td valign="top" width="50%">
 
-### 💼 Featured Projects
+**Specializations**
+- 🔹 Machine Learning & AI Fundamentals
+- 🔹 Computer Vision (OpenCV, DeepFace)
+- 🔹 Internet of Things (IoT)
+- 🔹 Data Visualization & Analytics
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🗣️ **[DataTalk](#)** – Text-to-SQL & Data Visualization | Natural language interface that translates queries into SQL with an interactive live dashboard | `ReactJS` `Plotly` `Supabase` `Tailwind CSS` |
-| 🎯 **[Student Identification System](#)** using ArcFace | Face recognition-based student ID system using DeepFace's ArcFace model | `Python` `OpenCV` `DeepFace` |
-| 📷 **[Face Recognition System](#)** | Real-time facial recognition system with a Flask web interface | `Python` `OpenCV` `Flask` |
-| 🦄 **[Startup Unicorn Prediction](#)** | ML model predicting unicorn potential from funding & growth data | `Python` `Pandas` `Scikit-learn` |
-| 🌦️ **[Weather Sync](#)** – IoT Environmental Monitoring | Real-time temperature/humidity monitoring with automated LED control | `Arduino` `C++` `DHT22` |
+</td>
+</tr>
+</table>
 
-> 🔗 Replace the `#` links above with your actual repo URLs once you push each project.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=header" width="100%"/>
 
----
+## 🎓 Education
+
+<table>
+<tr><th align="left">Qualification</th><th align="left">Institution</th><th align="left">Year</th><th align="left">Score</th></tr>
+<tr><td>B.E. CSE (Artificial Intelligence)</td><td>Sathyabama Institute of Science & Technology</td><td>2023 – 2027</td><td><b>CGPA 8.4/10</b></td></tr>
+<tr><td>Higher Secondary (12th)</td><td>Aditya Vidyashram</td><td>2023</td><td>73%</td></tr>
+<tr><td>Secondary (10th)</td><td>Aditya Vidyashram</td><td>2021</td><td>86%</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=header" width="100%"/>
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗣️ DataTalk
+**Text-to-SQL & Data Visualization System**
+Natural language interface that converts plain English into executable SQL, with an interactive live dashboard for instant insights.
+
+`ReactJS` `Plotly` `Supabase` `Tailwind CSS`
+
+[🔗 View Repository](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Student Identification System
+**Face Recognition using ArcFace**
+Face recognition-based student ID system built on the ArcFace model from the DeepFace framework, robust to lighting/angle changes.
+
+`Python` `OpenCV` `DeepFace`
+
+[🔗 View Repository](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📷 Face Recognition System
+**Real-Time Facial Recognition**
+End-to-end facial recognition pipeline — detection, feature extraction, and identity matching — served through a Flask web app.
+
+`Python` `OpenCV` `Flask`
+
+[🔗 View Repository](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦄 Startup Unicorn Prediction
+**ML Classification System**
+Predicts a startup's likelihood of becoming a unicorn using funding, industry, and growth features across multiple trained classifiers.
+
+`Python` `Pandas` `Scikit-learn`
+
+[🔗 View Repository](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ Weather Sync
+**IoT Environmental Monitoring**
+Real-time temperature & humidity monitoring system with automated LED brightness control based on sensor readings.
+
+`Arduino` `C++` `DHT22` `IoT`
+
+[🔗 View Repository](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 More coming soon
+**Always building**
+Currently exploring new ideas at the intersection of AI and full-stack development — check back for updates.
+
+`AI` `Full-Stack` `In Progress`
+
+[🔗 Follow along on GitHub](https://github.com/Kube030106)
+
+</td>
+</tr>
+</table>
+
+> 🔗 Replace each `#` above with your actual repository link once pushed.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=header" width="100%"/>
+
+## 💻 Experience & Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Internship
+**Software Developer Intern**
+Rudhra Info Solutions, Chennai — 1 Month
+- Built & enhanced web apps using HTML, CSS, Python
+- Debugged and optimized software components
+- Practiced Git/GitHub version-control workflows
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏆 Certifications
-- 🎓 NPTEL – Database Management Systems (DBMS)
-- 🎓 HCL (GUVI) – JavaScript Programming
+- 🎓 **NPTEL** — Database Management Systems (DBMS)
+- 🎓 **HCL (GUVI)** — JavaScript Programming
 
----
+</td>
+</tr>
+</table>
 
-### 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=header" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kube030106&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kube030106&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kube030106&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="55%" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Kube030106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kube030106&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/m-kubendiran-2546702b5"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kuben3456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+<br/>
 
-<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to check out my repositories.</i></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kube030106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" width="45%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kube030106&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=38BDF8&line=38BDF8&point=E2E8F0" width="50%"/>
+
+</div>
+
+<blockquote align="center">
+⚠️ If any card above shows a broken image, the free stats service is temporarily rate-limited — ask me and I'll switch you to a self-hosted, always-reliable version.
+</blockquote>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=header" width="100%"/>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="https://linkedin.com/in/m-kubendiran-2546702b5"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kuben3456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="tel:+919344715210"><img src="https://img.shields.io/badge/-Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>"Building real-world systems, one commit at a time." ⭐ Thanks for stopping by!</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
