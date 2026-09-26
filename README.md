@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.E. Computer Science & Engineering (Artificial Intelligence), **Sathyabama Institute of Science & Technology** (2023 – 2027) — CGPA: 8.4/10
+- 🎓 B.E. Computer Science & Engineering (Artificial Intelligence), **Sathyabama Institute of Science & Technology** (2023 – 2027) — CGPA: 8.6/10
 - 💡 Passionate about building AI-powered applications, computer vision systems, and IoT solutions
 - 🌱 Currently strengthening my skills in Machine Learning, Data Structures & Algorithms, and Full-Stack Development
 - 👨‍💻 Seeking internship / entry-level opportunities as a **Software Developer** or **AI Engineer**
